@@ -1,3 +1,8 @@
+Migle Aoyu
+Hernesto Beltrone
+Marco Orozco
+Esteban Garcia
+
 Ruleta de casino
 
 El archivo en zip compilado en Netbeans IDE 8.2
